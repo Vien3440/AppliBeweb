@@ -1,0 +1,54 @@
+<resources>
+    <!-- Page Liste Apprenant -->
+    <!--titre-->
+    <string name="lA_textView_titre">Apprenants</string>
+    <!--spiner-->
+    <string name="lA_spiner_promo">Promo</string>
+    <string name="lA_spiner_session">Session</string>
+    <string name="lA_spiner_skill">Skill</string>
+
+    <!-- Page Liste Apprenant Ithem -->
+    <string name="lAIthem_textView_nom">Promo</string>
+    <string name="lAIthem_textView_prenom">Session</string>
+    <string name="lAIthem_textView_skill">Skill</string>
+    <string name="lAIthem_button_detail">Skill</string>
+
+    <!-- Page profil Apprenant -->
+    <string name="detailA_nom">Kimbidima</string>
+    <string name="detailA_prenom">Vivien</string>
+    <string name="detailA_age">24</string>
+    <string name="detailA_tel">04 67 22 12 50</string>
+    <string name="detailA_email">viendev34@gmail.com</string>
+    <string name="detailA_url_portfolio">www.viendev.fr</string>
+    <string name="detailA_url_linkedin">#lala</string>
+    <string name="detailA_url_facebook">#lala</string>
+    <string name="detailA_url_twiter">#lala</string>
+    <string name="detailA_url_github">#lala</string>
+    <string name="detailA_photo">#Je suis trop bg</string>
+
+
+    <!-- PROJETS -->
+    <string name="detailA_projet_titre">Projets</string>
+    <!-- PROJETS ITEM -->
+    <string name="detailA_projetI_nom">Nom projet</string>
+    <string name="detailA_projetI_url_github">Url_git</string>
+    <string name="detailA_projetI_url_site">Url_site</string>
+    <string name="detailA_projetI_description">Description</string>
+    <string name="detailA_projetI_skills">Skills</string>
+
+    <!-- FORMATIONS -->
+    <string name="detailA_titre_formation">Formation</string>
+    <!-- FORMATIONS ITEM -->
+    <string name="detailA_formations_item"></string>
+    <string name="detailA_formations_intitule">intitulé</string>
+    <string name="detailA_formations_date_debut">date_debut</string>
+    <string name="detailA_formations_date_fin">date_fin</string>
+    <string name="detailA_formations_description">description</string>
+    <string name="detailA_formations_url_ecole">url_ecole</string>
+
+    <!-- SKILLS -->
+    <string name="detailA_titre_skills">Compétences</string>
+    <string name="detailA_liste_skills">jQuery</string>
+
+
+</resources>
